@@ -1,10 +1,6 @@
 # GPSBabel
 
-Use the [GPSBabel](http://www.gpsbabel.org/) library to convert your files.
-
-## Installing
-
-Add gpsbabel to your config.php.
+A FuelPHP package that allows you to use the [GPSBabel](http://www.gpsbabel.org/) library to convert your gps files.
 
 ## Usage
 
